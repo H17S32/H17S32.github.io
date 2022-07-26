@@ -22,7 +22,7 @@ C#
 ### C#
 I am currently on pause of learning on C# as of &/25/2022
 
-```C#
+```csharp
 using System;
 namespace My_sick_program
 {

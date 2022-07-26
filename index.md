@@ -20,7 +20,7 @@ Batch
 HTML
 C#
 ### C#
-I am currently on pause of learning on C# as of &/25/2022
+I am currently on pause of learning on C# as of 7/25/2022
 
 ```csharp
 using System;

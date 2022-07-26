@@ -1,5 +1,6 @@
 ## Welcome to my page.
-Hello!
+ 
+ 
 ### Markdown
 
 Lua is my main coding language, I use in roblox and other stuff.
@@ -13,11 +14,11 @@ end
 
 ### I code in
 
-Lua
-Python
-Batch
-HTML
+Lua \n
+Python \n
+Batch \n
+HTML \n
 
 ### Support or Contact
 
-Dm me on Discord! H17S3#2734
+Discord is the only place you can contact me for right now.

@@ -2,7 +2,7 @@
 Hello!
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lua is my main coding language, I use in roblox and other stuff.
 
 ```lua
 local e = "Im h17s3!"

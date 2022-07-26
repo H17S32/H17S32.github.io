@@ -38,6 +38,28 @@ namespace My_sick_program
         }
     }
 }
+###HTML
+Html is very great for websites
+```html
+<!doctype html>
+<html>
+    <head>
+        <title>About me</title>
+        <meta name="bruh" content="what">
+    <meta name="keywords" content="What am ">
+         </head>
+    <body>
+         <h1>Hello</h4>
+            <h2>I am a lua, Python, Html coder</h2>
+            <h3>Lua: </h3>
+            <p>I am very great on coding with lua is my main programming laugnage</p>
+            <h3>Python:</h3>
+            <p>I am a guy that uses <strong>python for no real purpose</strong></p>
+            <h3>Html: I just started learnning Html! THis is why this site was made!</h3>
+    <title>S</title>
+     <script src="Main.js"></script>
+    </body>
+</html>
 ```
 ### Support or Contact
 
